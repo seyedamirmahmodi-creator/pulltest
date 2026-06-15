@@ -1,4 +1,4 @@
-a=2
-b=5
-sum_of_two=a+b
-print(sum_of_two)
+a=input("num1=")
+b=input("num2=")
+MulOfTwo=a*b
+print(MulOfTwo)
